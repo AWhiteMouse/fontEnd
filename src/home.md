@@ -63,7 +63,7 @@ features:
     link: https://vuepress-theme-hope.github.io/zh/guide/feature/
 
 copyrightText: false
-footer: MIT Licensed | Copyright © 2019-present Mr.Hope
+footer: MIT Licensed | Copyright © 2019-present 白山
 ---
 
 这是普通主页的案例。你可以在这里放置你的主体内容。

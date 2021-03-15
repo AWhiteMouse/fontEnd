@@ -159,7 +159,7 @@ $$
 ::: demo 一个普通 Demo
 
 ```html
-<h1>Mr.Hope</h1>
+<h1>白山</h1>
 <p><span id="very">十分</span> 帅</p>
 ```
 
@@ -183,7 +183,7 @@ span {
 ::: demo 一个普通 Demo
 
 ```html
-<h1>Mr.Hope</h1>
+<h1>白山</h1>
 <p><span id="very">十分</span> 帅</p>
 ```
 
@@ -215,7 +215,7 @@ export default class App extends React.Component {
   render() {
     return (
       <div className="box-react">
-        Mr.Hope <span>{this.state.message}</span>
+        白山 <span>{this.state.message}</span>
       </div>
     );
   }
@@ -244,7 +244,7 @@ export default class App extends React.Component {
   render() {
     return (
       <div className="box-react">
-        Mr.Hope <span>{this.state.message}</span>
+        白山 <span>{this.state.message}</span>
       </div>
     );
   }
@@ -267,7 +267,7 @@ export default class App extends React.Component {
 ```vue
 <template>
   <div class="box-vue">
-    Mr.Hope <span>{{ message }}</span>
+    白山 <span>{{ message }}</span>
   </div>
 </template>
 <script>
@@ -292,7 +292,7 @@ export default {
 ```vue
 <template>
   <div class="box-vue">
-    Mr.Hope <span>{{ message }}</span>
+    白山 <span>{{ message }}</span>
   </div>
 </template>
 <script>
@@ -321,7 +321,7 @@ export default {
 ```
 
 ```ts
-const message: string = "Mr.Hope";
+const message: string = "白山";
 
 document.querySelector("h1").innerHTML = message;
 ```
@@ -350,7 +350,7 @@ h1 {
 ```
 
 ```ts
-const message: string = "Mr.Hope";
+const message: string = "白山";
 
 document.querySelector("h1").innerHTML = message;
 ```

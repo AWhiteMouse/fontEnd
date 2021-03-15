@@ -3,7 +3,7 @@ const {
 } = require("vuepress-theme-hope");
 
 module.exports = config({
-	title: "Tanabalu's Blog",
+	title: "白山",
 	description: "前端知识体系图谱",
 
 	base: "/fontEnd/",
@@ -46,7 +46,7 @@ module.exports = config({
 		logo: "/logo.svg",
 		hostname: "https://vuepress-theme-hope-demo.mrhope.site",
 
-		author: "Mr.Tanabalu",
+		author: "白山",
 		repo: "https://github.com/vuepress-theme-hope/vuepress-theme-hope",
 		docsRepo: "https://github.com/vuepress-theme-hope/demo",
 		docsDir: "src",
@@ -361,7 +361,7 @@ module.exports = config({
 			links: {
 				// Zhihu: "https://zhihu.com",
 				// Baidu: "https://baidu.com",
-				Github: "https://github.com/AWhiteMouse",
+				Github: "https://github.com/AWhiteMouse/fontEnd",
 			},
 		},
 

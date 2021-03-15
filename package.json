@@ -1,14 +1,14 @@
 {
-  "name": "vuepress-theme-hope-template",
+  "name": "font-end-map",
   "version": "1.0.0",
-  "description": "Template for vuepress-theme-hope",
+  "description": "前端知识图谱",
   "scripts": {
     "serve": "vuepress dev src",
     "cleanServe": "vuepress dev src --no-cache",
     "build": "vuepress build src",
     "test": "echo \"Warning: no test specified\" && exit 0"
   },
-  "author": "Mr.Hope",
+  "author": "白山",
   "license": "MIT",
   "keywords": [
     "vuepress",
