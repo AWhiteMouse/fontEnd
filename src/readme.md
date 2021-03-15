@@ -2,32 +2,33 @@
 blog: true
 home: true
 icon: home
-title: Blog Home
+title: 博客主页
 heroImage: /logo.svg
-heroText: the name of your blog
-tagline: You can put your slogan here
-project:
-  - type: project
-    name: project name
-    desc: project detailed description
-    link: your project link
+heroText: 你博客的名称
+tagline: 你可以在这里放置你的口号与标语
+# project:
+#   - type: project
+#     name: 项目名称
+#     desc: 项目详细描述
+#     link: 你的项目链接
 
-  - type: link
-    name: link name
-    desc: link detailed description
-    link: link address
+#   - type: link
+#     name: 链接名称
+#     desc: 链接详细描述
+#     link: 链接地址
 
-  - type: book
-    name: book name
-    desc: Detailed description of the book
-    link: link to your book
+#   - type: book
+#     name: 书籍名称
+#     desc: 书籍详细描述
+#     link: 你的书籍链接
 
-  - type: article
-    name: article name
-    desc: Detailed description of the article
-    link: link to your article
+#   - type: article
+#     name: 文章名称
+#     desc: 文章详细描述
+#     link: 你的文章链接
 
-footer: customize your footer text
+footer: 自定义你的页脚文字
 ---
 
-For related configuration documents, please see [blog homepage](https://vuepress-theme-hope.github.io/guide/layout/blog/)
+相关配置文档请见 [博客主页](https://vuepress-theme-hope.github.io/zh/guide/layout/blog/)
+

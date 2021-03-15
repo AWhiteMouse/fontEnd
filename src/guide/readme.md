@@ -1,14 +1,14 @@
 ---
 icon: creative
-category: Guide
+category: 使用指南
 ---
 
-# Guides
+# 功能介绍
 
-- [Page Config](page.md)
+- [页面展示](page.md)
 
-- [Markdown Enhance](markdown.md)
+- [Markdown 展示](markdown.md)
 
-- [Function Disable](disable.md)
+- [禁用展示](disable.md)
 
-- [Encryption Demo](encrypt.md)
+- [加密展示](encrypt.md)
