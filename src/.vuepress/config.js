@@ -6,7 +6,7 @@ module.exports = config({
 	title: "Tanabalu's Blog",
 	description: "前端知识体系图谱",
 
-	base: "/blog/",
+	base: "/fontEnd/",
 
 	dest: "./dist",
 
