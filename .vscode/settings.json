@@ -1,5 +1,8 @@
 {
     "cSpell.ignoreWords": [
-        "mvvm"
+        "dev",
+        "mvvm",
+        "src",
+        "vuepress"
     ]
 }
