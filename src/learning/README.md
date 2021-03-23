@@ -12,9 +12,8 @@ title: 每日学习
                     v-for="(content, contentIndex) in learn.contents"
                     :key="contentIndex"
                     class="timeline-content"
-                >
-                    <div v-html="content"></div>
-                </div>
+                    v-html="content"
+                ></div>
             </div>
         </div>
     </div>
@@ -25,6 +24,59 @@ export default {
     data() {
         return {
             learnList: [
+                {
+                    time: "2021/03/23 周二",
+                    contents: [
+                        "学习了浏览器缓存的相关知识",
+                        "\n",
+                        "1、根据缓存的策略可以将缓存分为 <strong>强缓存</strong> 和 <strong>协商缓存</strong>。强缓存优先级高于协商缓存。（浏览器会先查找强缓存，然后查找协商缓存）",
+                        "&nbsp;&nbsp;&nbsp;&nbsp;1.1、<strong>强缓存</strong>：根据 <strong>Cache-Control</strong>（http1.1引入） 和 <strong>Expires</strong>（基本没用，保留它是为了兼容老版浏览器） 来判断强缓存是否失效。 <strong>Cache-Control</strong> 优先级高于 <strong>Expires</strong>。",
+                        "&nbsp;&nbsp;&nbsp;&nbsp;1.2、<strong>协商缓存</strong>（协商指客户端和服务器进行协商）：根据 <strong>Last-Modified / If-Modified-Since</strong> 和 <strong>ETag / If-None-Match</strong> 来判断缓存是否失效。 <strong>ETag / If-None-Match</strong> 优先级比 <strong>Last-Modified / If-Modified-Since</strong> 高。",
+                        "\n",
+                        "2、根据缓存的位置可以将缓存分为 <strong>Service Worker</strong>(独立线程)、 <strong>Memory Cache</strong>(内存缓存)、 <strong>Disk Cache</strong>(磁盘缓存)、<strong>Push Cache</strong>(推送缓存)。",
+                        "&nbsp;&nbsp;&nbsp;&nbsp;2.1、<strong>Service Worker</strong>：它可以让我们自由控制缓存哪些文件、如何匹配缓存、如何读取缓存，并且缓存是持续性的。",
+                        "&nbsp;&nbsp;&nbsp;&nbsp;2.2、<strong>Memory Cache</strong>：一旦Tab页关闭，内存缓存就被释放了。速度要比磁盘缓存快。",
+                        "&nbsp;&nbsp;&nbsp;&nbsp;2.3、<strong>Disk Cache</strong>：磁盘缓存时效更长，存储量更大。",
+                        "&nbsp;&nbsp;&nbsp;&nbsp;2.4、<strong>Push Cache</strong>：HTTP2新增的缓存缓存。它只在会话（Session）中存在，一旦会话结束就被释放，并且缓存时间也很短暂，存活时间大概只有5分钟左右。",
+                        "\n",
+                        "文件缓存的实际位置是受浏览器自身的机制控制的。",
+                        "\n",
+                        {
+                            content: "参考文档：#深入理解浏览器的缓存机制#、#彻底理解浏览器的缓存机制#",
+                            links: ['https://mp.weixin.qq.com/s/y-yajw1GaWLKUdOJo3cbew', 'https://mp.weixin.qq.com/s/d2zeGhUptGUGJpB5xHQbOA'],
+                        }
+                    ]
+                },
+                {
+                    time: "2021/03/22 周一",
+                    contents: [
+                        "学习了V8垃圾回收的知识。",
+                        "\n",
+                        "1、V8垃圾回收的两个主要部分是 <strong>新生代</strong> 和 <strong>老生代</strong>。",
+                        "2、新生代使用 <strong>Scavenge算法</strong> 以空间换时间的方式交换from区间和to区间进行垃圾回收。",
+                        "3、对象晋升：满足这两个条件之一的对象就会被移到老生代——a.已经经历过一次Scavenge算法；b.To空间内存使用率已经超过25%",
+                        "4、老生代使用 <strong>标记清除 + 标记管理</strong> 的方案实现垃圾回收。",
+                        "\n",
+                        {
+                            content: "参考文档：#一文搞懂V8引擎的垃圾回收#",
+                            links: ['https://juejin.cn/post/6844904016325902344'],
+                        }
+                    ]
+                },
+                {
+                    "time":"2021/03/19 周五",
+                    "contents":[
+                        "学习了闭包的含义、意义和销毁以及闭包的几种形式，算是对闭包有了一个比较清晰的认知了",
+                    ]
+                },
+                {
+                    time:"2021/03/18 周四",
+                    contents:[
+                        "前言：距离上次的记录已经有一年多了，这一年多来都在忙于业务的开发，压力比较大。有遇到偶尔空闲的时候，也是把时间用来看电视和玩游戏了，我把它们看作是休闲。但是最近晋升述职的时候，被评委暗批技术含量不足。对此，我不得不认同。拿我现在的技术水平跟同年毕业的同龄人去比，瞬间感觉自己太菜了。最近也在反思，自己确实比刚毕业的时候懈怠了很多。最近也准备拾起以前的一些学习内容，充实自己的技术。",
+                        "\n",
+                        "今天主要是额外学习了ES5的几种继承方式，JS继承一直是自己的几块心病之一，今天静下心来完整的学了一遍，总算弄清楚了。",
+                    ]
+                },
                 {
                     "time":"2020/02/01",
                     "contents":[
@@ -248,11 +300,12 @@ export default {
         };
     },
     created() {
-        console.log(this.learnList);
         this.learnList.forEach((learn, index) => {
             learn.contents.forEach((content, contentIndex) => {
                 if (typeof content !== 'string') {
                     this.$set(this.learnList[index].contents, contentIndex, this.generateContent(content));
+                } else if (content === '\n') {
+                    this.$set(this.learnList[index].contents, contentIndex, '<br />');
                 }
             })
         })
@@ -260,7 +313,6 @@ export default {
     methods: {
         generateContent(data) {
             const {content, links} = data;
-            console.log(data);
             // 先将字符串拆解
             const textArr = content.split('#');
             // 最后的结果
@@ -303,6 +355,7 @@ export default {
         padding-left: 10px;
         position: relative;
         color: #fff;
+        font-family: monospace;
     }
 
     .timeline-body {

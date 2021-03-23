@@ -36,7 +36,7 @@ module.exports = config({
 	],
 
 	// locales: {
-	//   "/zh/": {
+	//   "/": {
 	//     title: "Theme Demo",
 	//     description: "vuepress-theme-hope 的 demo",
 	//   },
@@ -44,11 +44,11 @@ module.exports = config({
 
 	themeConfig: {
 		logo: "/logo.svg",
-		hostname: "https://vuepress-theme-hope-demo.mrhope.site",
+		// hostname: "https://vuepress-theme-hope-demo.mrhope.site",
 
 		author: "白山",
-		repo: "https://github.com/vuepress-theme-hope/vuepress-theme-hope",
-		docsRepo: "https://github.com/vuepress-theme-hope/demo",
+		repo: "https://github.com/AWhiteMouse/fontEnd",
+		docsRepo: "https://github.com/AWhiteMouse/fontEnd",
 		docsDir: "src",
 
 		nav: [{
@@ -105,7 +105,6 @@ module.exports = config({
 								"variableAscension",
 								"this",
 								"executedImmediately",
-								"instanceof",
 								"typeof",
 								"bind",
 								"call",
@@ -116,6 +115,7 @@ module.exports = config({
 								"loop",
 								"promise",
 								"generator",
+								"cross",
 							],
 						},
 						{
@@ -212,11 +212,13 @@ module.exports = config({
 							prefix: "vue/",
 							children: [
 								"",
+								"data",
 								"bind",
 								"computed",
 								"slot",
 								"nextTick",
 								"keepAlive",
+								"css",
 							],
 						},
 						{
