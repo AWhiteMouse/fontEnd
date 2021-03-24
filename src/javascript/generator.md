@@ -1,3 +1,0 @@
----
-title: generator原理
----

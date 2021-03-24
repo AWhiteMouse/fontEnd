@@ -1,3 +1,0 @@
----
-title: promise原理
----
