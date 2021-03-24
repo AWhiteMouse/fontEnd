@@ -33,6 +33,6 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          BASE_BRANCH: gh-pages
-          BRANCH: master
+          BRANCH: gh-pages
           FOLDER: dist
+          CLEAN: true
