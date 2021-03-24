@@ -50,6 +50,7 @@ module.exports = config({
 		repo: "https://github.com/AWhiteMouse/fontEnd",
 		docsRepo: "https://github.com/AWhiteMouse/fontEnd",
 		docsDir: "src",
+		baseLang: "zh-CN",
 
 		nav: [{
 				text: "首页",
