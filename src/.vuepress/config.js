@@ -44,7 +44,7 @@ module.exports = config({
 
 	themeConfig: {
 		logo: "/logo.svg",
-		// hostname: "https://vuepress-theme-hope-demo.mrhope.site",
+		hostname: "https://hbuecx.com",
 
 		author: "白山",
 		repo: "https://github.com/AWhiteMouse/fontEnd",
@@ -99,6 +99,7 @@ module.exports = config({
 							prefix: "javascript/",
 							children: [
 								"",
+								"clone",
 								"prototype",
 								"extends",
 								"scope",

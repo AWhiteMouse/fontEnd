@@ -3,6 +3,7 @@
         "dev",
         "mvvm",
         "src",
+        "typeof",
         "vuepress"
     ]
 }
