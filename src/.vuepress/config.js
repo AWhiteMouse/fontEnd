@@ -167,6 +167,7 @@ module.exports = config({
 								"url",
 								"animation",
 								"render",
+								"report"
 							],
 						},
 						{
