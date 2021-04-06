@@ -227,7 +227,10 @@ module.exports = config({
 						{
 							title: "Vuex",
 							prefix: "vuex/",
-							children: [],
+							children: [
+								"",
+								"computed"
+							],
 						},
 					],
 				},
