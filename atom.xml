@@ -6,7 +6,7 @@
   <author>
     <name>白山</name>
   </author>
-  <updated>2021-04-06T13:07:42.876Z</updated>
+  <updated>2021-04-07T09:49:20.270Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://hbuecx.com/fontEnd/atom.xml"/>
   <link rel="alternate" href="https://hbuecx.com/fontEnd/"/>
@@ -19,7 +19,7 @@
     <title type="html">BFC</title>
     <id>https://hbuecx.com/fontEnd/css/BFC/</id>
     <link href="https://hbuecx.com/fontEnd/css/BFC/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -28,14 +28,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">CSS</title>
     <id>https://hbuecx.com/fontEnd/css/</id>
     <link href="https://hbuecx.com/fontEnd/css/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -44,14 +44,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">盒子模型</title>
     <id>https://hbuecx.com/fontEnd/css/box/</id>
     <link href="https://hbuecx.com/fontEnd/css/box/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -60,14 +60,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">div垂直居中</title>
     <id>https://hbuecx.com/fontEnd/css/center/</id>
     <link href="https://hbuecx.com/fontEnd/css/center/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -76,14 +76,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">层叠上下文</title>
     <id>https://hbuecx.com/fontEnd/css/context/</id>
     <link href="https://hbuecx.com/fontEnd/css/context/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -92,14 +92,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">flex布局</title>
     <id>https://hbuecx.com/fontEnd/css/flex/</id>
     <link href="https://hbuecx.com/fontEnd/css/flex/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -108,14 +108,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">浮动</title>
     <id>https://hbuecx.com/fontEnd/css/float/</id>
     <link href="https://hbuecx.com/fontEnd/css/float/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -124,14 +124,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">圣杯/双飞翼布局</title>
     <id>https://hbuecx.com/fontEnd/css/layout/</id>
     <link href="https://hbuecx.com/fontEnd/css/layout/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -140,14 +140,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">CSS样式隔离</title>
     <id>https://hbuecx.com/fontEnd/css/module/</id>
     <link href="https://hbuecx.com/fontEnd/css/module/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -156,14 +156,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">CSS新特性</title>
     <id>https://hbuecx.com/fontEnd/css/newFeatures/</id>
     <link href="https://hbuecx.com/fontEnd/css/newFeatures/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -172,14 +172,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">CSS性能优化</title>
     <id>https://hbuecx.com/fontEnd/css/performance/</id>
     <link href="https://hbuecx.com/fontEnd/css/performance/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -188,14 +188,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">position</title>
     <id>https://hbuecx.com/fontEnd/css/position/</id>
     <link href="https://hbuecx.com/fontEnd/css/position/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -204,14 +204,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">CSS选择器及优先级</title>
     <id>https://hbuecx.com/fontEnd/css/selector/</id>
     <link href="https://hbuecx.com/fontEnd/css/selector/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -220,14 +220,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">MVC</title>
     <id>https://hbuecx.com/fontEnd/designMode/MVC/</id>
     <link href="https://hbuecx.com/fontEnd/designMode/MVC/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -236,14 +236,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">MVP</title>
     <id>https://hbuecx.com/fontEnd/designMode/MVP/</id>
     <link href="https://hbuecx.com/fontEnd/designMode/MVP/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -252,14 +252,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">MVVM</title>
     <id>https://hbuecx.com/fontEnd/designMode/MVVM/</id>
     <link href="https://hbuecx.com/fontEnd/designMode/MVVM/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -268,14 +268,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">设计模式</title>
     <id>https://hbuecx.com/fontEnd/designMode/</id>
     <link href="https://hbuecx.com/fontEnd/designMode/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -284,14 +284,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">常用设计模式</title>
     <id>https://hbuecx.com/fontEnd/designMode/common/</id>
     <link href="https://hbuecx.com/fontEnd/designMode/common/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -300,14 +300,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">重构</title>
     <id>https://hbuecx.com/fontEnd/designMode/reconstitution/</id>
     <link href="https://hbuecx.com/fontEnd/designMode/reconstitution/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -316,14 +316,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">工程化</title>
     <id>https://hbuecx.com/fontEnd/engineering/</id>
     <link href="https://hbuecx.com/fontEnd/engineering/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -332,14 +332,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">babel原理</title>
     <id>https://hbuecx.com/fontEnd/engineering/babel/</id>
     <link href="https://hbuecx.com/fontEnd/engineering/babel/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -348,14 +348,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">webpack loader机制</title>
     <id>https://hbuecx.com/fontEnd/engineering/loader/</id>
     <link href="https://hbuecx.com/fontEnd/engineering/loader/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -364,14 +364,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">前端微服务</title>
     <id>https://hbuecx.com/fontEnd/engineering/microService/</id>
     <link href="https://hbuecx.com/fontEnd/engineering/microService/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -380,14 +380,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">模块化机制</title>
     <id>https://hbuecx.com/fontEnd/engineering/module/</id>
     <link href="https://hbuecx.com/fontEnd/engineering/module/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -396,14 +396,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">tree shaking</title>
     <id>https://hbuecx.com/fontEnd/engineering/treeShaking/</id>
     <link href="https://hbuecx.com/fontEnd/engineering/treeShaking/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -412,14 +412,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">uglify原理</title>
     <id>https://hbuecx.com/fontEnd/engineering/uglify/</id>
     <link href="https://hbuecx.com/fontEnd/engineering/uglify/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -428,14 +428,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">webpack</title>
     <id>https://hbuecx.com/fontEnd/engineering/webpack/</id>
     <link href="https://hbuecx.com/fontEnd/engineering/webpack/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -444,14 +444,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">组件禁用</title>
     <id>https://hbuecx.com/fontEnd/guide/disable/</id>
     <link href="https://hbuecx.com/fontEnd/guide/disable/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <summary type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
@@ -472,14 +472,14 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">密码加密的文章</title>
     <id>https://hbuecx.com/fontEnd/guide/encrypt/</id>
     <link href="https://hbuecx.com/fontEnd/guide/encrypt/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -492,14 +492,70 @@
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
+    <rights>Copyright by 白山</rights>
+  </entry>
+  <entry>
+    <title type="html">页面配置</title>
+    <id>https://hbuecx.com/fontEnd/guide/page/</id>
+    <link href="https://hbuecx.com/fontEnd/guide/page/"/>
+    <updated>2021-04-07T09:48:49.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="页面信息"> 页面信息</h2>
+<p>你可以在 Markdown 的 Frontmatter 中设置页面信息。</p>
+<ul>
+<li>
+<p>作者设置为 Ms.Tanabalu。</p>
+</li>
+<li>
+<p>写作时间应为 2021 年 3 月 12 日</p>
+</li>
+<li>
+<p>分类为 “使用指南”</p>
+</li>
+<li>
+<p>标签为 “页面配置” 和 “使用指南”</p>
+</li>
+</ul>
+<h2 id="页面内容"> 页面内容</h2>
+<p>你可以自由在这里书写你的 Markdown。</p>
+<div><p>提示</p>
+<ul>
+<li>
+<p>Markdown 文件夹的图片请使用相对链接 <code>./</code> 进行引用。</p>
+</li>
+<li>
+<p><code>.vuepress/public</code> 文件夹的图片，请使用绝对链接 <code>/</code> 进行引用</p>
+</li>
+</ul>
+</div>
+<p>主题包含了一个自定义徽章章可以使用:</p>
+<blockquote>
+<p>文字结尾应该有深蓝色的 徽章文字 徽章。 <i>Not supported content</i></p>
+</blockquote>
+<h2 id="页面结构"> 页面结构</h2>
+<p>此页面应当包含：</p>
+<ul>
+<li>返回顶部按钮</li>
+<li>路径导航</li>
+<li>评论</li>
+<li>页脚</li>
+</ul>
+]]></content>
+    <author>
+      <name>白山</name>
+    </author>
+    <category term="使用指南"/>
+    <contributor>
+      <name>白山</name>
+    </contributor>
+    <published>2020-01-01T00:00:00.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">Markdown 增强</title>
     <id>https://hbuecx.com/fontEnd/guide/markdown/</id>
     <link href="https://hbuecx.com/fontEnd/guide/markdown/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <summary type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
@@ -945,70 +1001,14 @@ $$
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
-    <rights>Copyright by 白山</rights>
-  </entry>
-  <entry>
-    <title type="html">页面配置</title>
-    <id>https://hbuecx.com/fontEnd/guide/page/</id>
-    <link href="https://hbuecx.com/fontEnd/guide/page/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
-    <content type="html"><![CDATA[<h2 id="页面信息"> 页面信息</h2>
-<p>你可以在 Markdown 的 Frontmatter 中设置页面信息。</p>
-<ul>
-<li>
-<p>作者设置为 Ms.Tanabalu。</p>
-</li>
-<li>
-<p>写作时间应为 2021 年 3 月 12 日</p>
-</li>
-<li>
-<p>分类为 “使用指南”</p>
-</li>
-<li>
-<p>标签为 “页面配置” 和 “使用指南”</p>
-</li>
-</ul>
-<h2 id="页面内容"> 页面内容</h2>
-<p>你可以自由在这里书写你的 Markdown。</p>
-<div><p>提示</p>
-<ul>
-<li>
-<p>Markdown 文件夹的图片请使用相对链接 <code>./</code> 进行引用。</p>
-</li>
-<li>
-<p><code>.vuepress/public</code> 文件夹的图片，请使用绝对链接 <code>/</code> 进行引用</p>
-</li>
-</ul>
-</div>
-<p>主题包含了一个自定义徽章章可以使用:</p>
-<blockquote>
-<p>文字结尾应该有深蓝色的 徽章文字 徽章。 <i>Not supported content</i></p>
-</blockquote>
-<h2 id="页面结构"> 页面结构</h2>
-<p>此页面应当包含：</p>
-<ul>
-<li>返回顶部按钮</li>
-<li>路径导航</li>
-<li>评论</li>
-<li>页脚</li>
-</ul>
-]]></content>
-    <author>
-      <name>白山</name>
-    </author>
-    <category term="使用指南"/>
-    <contributor>
-      <name>白山</name>
-    </contributor>
-    <published>2020-01-01T00:00:00.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">功能介绍</title>
     <id>https://hbuecx.com/fontEnd/guide/</id>
     <link href="https://hbuecx.com/fontEnd/guide/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<h1 id="功能介绍"> 功能介绍</h1>
 <ul>
 <li>
@@ -1032,14 +1032,14 @@ $$
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">项目主页</title>
     <id>https://hbuecx.com/fontEnd/home/</id>
     <link href="https://hbuecx.com/fontEnd/home/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>配置项的相关说明请见 <a href="https://AWhiteMouse.github.io/fontEnd/guide/layout/home/" target="_blank" rel="noopener noreferrer">首页布局配置</a>。</p>
 ]]></content>
@@ -1049,14 +1049,14 @@ $$
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">DOM树</title>
     <id>https://hbuecx.com/fontEnd/html/DOM/</id>
     <link href="https://hbuecx.com/fontEnd/html/DOM/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -1065,14 +1065,14 @@ $$
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">HTML</title>
     <id>https://hbuecx.com/fontEnd/html/</id>
     <link href="https://hbuecx.com/fontEnd/html/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -1081,14 +1081,14 @@ $$
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">浏览器架构</title>
     <id>https://hbuecx.com/fontEnd/html/browserArchitecture/</id>
     <link href="https://hbuecx.com/fontEnd/html/browserArchitecture/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -1097,15 +1097,19 @@ $$
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">浏览器运行原理</title>
     <id>https://hbuecx.com/fontEnd/html/browserRun/</id>
     <link href="https://hbuecx.com/fontEnd/html/browserRun/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
+<h2 id="参考"> 参考</h2>
+<ol>
+<li><a href="https://segmentfault.com/a/1190000022633988" target="_blank" rel="noopener noreferrer">前端都该懂的浏览器工作原理，你懂了吗？</a>.</li>
+</ol>
 ]]></content>
     <author>
       <name>白山</name>
@@ -1113,14 +1117,14 @@ $$
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">缓存策略</title>
     <id>https://hbuecx.com/fontEnd/html/cache/</id>
     <link href="https://hbuecx.com/fontEnd/html/cache/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>协商缓存：客户端与服务器协商</p>
 <h2 id="参考"> 参考</h2>
 <ol>
@@ -1133,14 +1137,14 @@ $$
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">跨标签页通信</title>
     <id>https://hbuecx.com/fontEnd/html/communication/</id>
     <link href="https://hbuecx.com/fontEnd/html/communication/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -1149,14 +1153,14 @@ $$
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">事件模型</title>
     <id>https://hbuecx.com/fontEnd/html/event/</id>
     <link href="https://hbuecx.com/fontEnd/html/event/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -1165,14 +1169,14 @@ $$
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">内存泄漏</title>
     <id>https://hbuecx.com/fontEnd/html/memory/</id>
     <link href="https://hbuecx.com/fontEnd/html/memory/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -1181,14 +1185,14 @@ $$
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">history和hash两种路由</title>
     <id>https://hbuecx.com/fontEnd/html/router/</id>
     <link href="https://hbuecx.com/fontEnd/html/router/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -1197,14 +1201,14 @@ $$
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">Intro Page</title>
     <id>https://hbuecx.com/fontEnd/intro/</id>
     <link href="https://hbuecx.com/fontEnd/intro/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content>
@@ -1214,42 +1218,64 @@ $$
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">Javascript</title>
     <id>https://hbuecx.com/fontEnd/javascript/</id>
     <link href="https://hbuecx.com/fontEnd/javascript/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <author>
       <name>白山</name>
     </author>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
+    <rights>Copyright by 白山</rights>
+  </entry>
+  <entry>
+    <title type="html">AST抽象语法树</title>
+    <id>https://hbuecx.com/fontEnd/javascript/ast/</id>
+    <link href="https://hbuecx.com/fontEnd/javascript/ast/"/>
+    <updated>2021-04-07T09:48:49.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="参考"> 参考</h2>
+<ol>
+<li><a href="https://www.cnblogs.com/goloving/p/14078228.html" target="_blank" rel="noopener noreferrer">浅析AST抽象语法树及如何利用AST转换JS代码</a>.</li>
+<li><a href="https://www.cnblogs.com/goloving/p/14023881.html" target="_blank" rel="noopener noreferrer">浅析代码编译过程</a>.</li>
+<li><a href="https://segmentfault.com/a/1190000016231512" target="_blank" rel="noopener noreferrer">AST抽象语法树——最基础的javascript重点知识，99%的人根本不了解</a>.</li>
+<li><a href="https://segmentfault.com/a/1190000013126460" target="_blank" rel="noopener noreferrer">JavaScript到底是解释型语言还是编译型语言?</a>.</li>
+</ol>
+]]></content>
+    <author>
+      <name>白山</name>
+    </author>
+    <contributor>
+      <name>白山</name>
+    </contributor>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">bind的实现</title>
     <id>https://hbuecx.com/fontEnd/javascript/bind/</id>
     <link href="https://hbuecx.com/fontEnd/javascript/bind/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <author>
       <name>白山</name>
     </author>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">apply和call</title>
     <id>https://hbuecx.com/fontEnd/javascript/call/</id>
     <link href="https://hbuecx.com/fontEnd/javascript/call/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>call(null): this执行window</p>
 ]]></content>
     <author>
@@ -1258,191 +1284,135 @@ $$
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">深浅拷贝</title>
     <id>https://hbuecx.com/fontEnd/javascript/clone/</id>
     <link href="https://hbuecx.com/fontEnd/javascript/clone/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
-    <content type="html"><![CDATA[<h2 id="深浅拷贝"> 深浅拷贝</h2>
-<h3 id="浅拷贝"> 浅拷贝</h3>
-<h3 id="深拷贝"> 深拷贝</h3>
-<h4 id="json-parse-json-stringify"> JSON.parse(JSON.stringify())</h4>
-<p>乞丐版</p>
-<h5 id="缺陷"> 缺陷</h5>
-<h4 id="第三方库"> 第三方库</h4>
-<h5 id="lodash"> lodash</h5>
-<h5 id="jquery"> jquery</h5>
-<h5 id="immutable"> immutable</h5>
+    <updated>2021-04-07T09:48:49.000Z</updated>
+    <content type="html"><![CDATA[<p>在实际业务开发中经常需要用到拷贝，尤其需要注意的是对于数组和对象的拷贝。</p>
+<p>我们常提到的两个概念：浅拷贝和深拷贝。两个的区别在于拷贝得到的数据与原数据是否存在共用某一个数据块的情况。</p>
+<p>为了更直观的感受浅拷贝与深拷贝的区别，我从<a href="https://juejin.cn/post/6844904197595332622" target="_blank" rel="noopener noreferrer">这里</a>借用了如下两张图：</p>
+<ul>
+<li>浅拷贝</li>
+</ul>
+<p><img src="https://user-gold-cdn.xitu.io/2020/3/1/170965259fb768fd?imageView2/0/w/1280/h/960/format/webp/ignore-error/1" alt=""></p>
+<ul>
+<li>深拷贝</li>
+</ul>
+<p><img src="https://user-gold-cdn.xitu.io/2020/3/1/1709652a7948d1b8?imageView2/0/w/1280/h/960/format/webp/ignore-error/1" alt=""></p>
+<p>从这两张图中可以清晰地看到，浅拷贝只是复制了某个对象的指针，新旧数据共享了空间；而深拷贝则是开辟了新的空间用来存放复制得到的对象，新旧数据独立使用自己的空间。</p>
+<h2 id="浅拷贝"> 浅拷贝</h2>
+<p>常见的浅拷贝有以下几种：</p>
+<ul>
+<li>直接赋值</li>
+<li>Object.assign</li>
+<li>展开运算符</li>
+<li>数组内置方法：slice、concat</li>
+<li>……</li>
+</ul>
+<p>这里使用选取<code>直接赋值</code>的方式看一看浅拷贝的实现效果：</p>
+
+          <div
+            id="code-demo-531389ac"
+           
+  data-type="vue"
+ data-title="%E6%B5%85%E6%8B%B7%E8%B4%9Ddemo"
+
+            data-code="%7B%22vue%22%3A%22%3Ctemplate%3E%5Cn%20%20%20%20%3Cdiv%3E%7B%7Borigin%7D%7D%3C%2Fdiv%3E%5Cn%3C%2Ftemplate%3E%5Cn%5Cn%3Cscript%3E%5Cnexport%20default%20%7B%5Cn%20%20%20%20data()%20%7B%5Cn%20%20%20%20%20%20%20%20return%20%7B%5Cn%20%20%20%20%20%20%20%20%20%20%20%20origin%3A%20%7B%5Cn%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20x%3A%207%5Cn%20%20%20%20%20%20%20%20%20%20%20%20%7D%2C%5Cn%20%20%20%20%20%20%20%20%7D%3B%5Cn%20%20%20%20%7D%2C%5Cn%20%20%20%20created()%20%7B%5Cn%20%20%20%20%20%20%20%20%2F%2F%20%E6%B5%85%E6%8B%B7%E8%B4%9D%5Cn%20%20%20%20%20%20%20%20this.cloneData%20%3D%20this.origin%3B%5Cn%20%20%20%20%20%20%20%20%2F%2F%20%E4%BF%AE%E6%94%B9%E4%BA%86%E6%8B%B7%E8%B4%9D%E5%BE%97%E5%88%B0%E7%9A%84%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%B1%9E%E6%80%A7%E5%80%BC%5Cn%20%20%20%20%20%20%20%20this.cloneData.x%20%3D%2012%3B%5Cn%20%20%20%20%7D%5Cn%7D%5Cn%3C%2Fscript%3E%5Cn%22%7D"
+          >
+              <div>
+                
+              </div>
+              <div>
+                <div>
+<div><pre><code><span><span><span>&lt;</span>template</span><span>></span></span>
+    <span><span><span>&lt;</span>div</span><span>></span></span>{{origin}}<span><span><span>&lt;/</span>div</span><span>></span></span>
+<span><span><span>&lt;/</span>template</span><span>></span></span>
+
+<span><span><span>&lt;</span>script</span><span>></span></span><span><span>
+<span>export</span> <span>default</span> <span>{</span>
+    <span>data</span><span>(</span><span>)</span> <span>{</span>
+        <span>return</span> <span>{</span>
+            origin<span>:</span> <span>{</span>
+                x<span>:</span> <span>7</span>
+            <span>}</span><span>,</span>
+        <span>}</span><span>;</span>
+    <span>}</span><span>,</span>
+    <span>created</span><span>(</span><span>)</span> <span>{</span>
+        <span>// 浅拷贝</span>
+        <span>this</span><span>.</span>cloneData <span>=</span> <span>this</span><span>.</span>origin<span>;</span>
+        <span>// 修改了拷贝得到的对象的属性值</span>
+        <span>this</span><span>.</span>cloneData<span>.</span>x <span>=</span> <span>12</span><span>;</span>
+    <span>}</span>
+<span>}</span>
+</span></span><span><span><span>&lt;/</span>script</span><span>></span></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br></div></div>
+            </div>
+          </div>
+          
+        </div>
+<p>从demo中可以看到，我们只是修改cloneData的x属性值，但是origin的x属性值居然也发生了更改。</p>
+<p>这就是浅拷贝，浅拷贝带来的隐患也是显而易见的：数据拷贝不彻底，同一个数据源可能被多处同时修改，造成数据污染。</p>
+<p>为了解决这个问题，我们需要让拷贝得到的数据独立支配属于自己的空间，断绝与原数据的关系，这就是深拷贝啦。</p>
+<h2 id="深拷贝"> 深拷贝</h2>
+<p>在一般场景中，比较常用的深拷贝方式是<code>JSON.parse()</code> + <code>JSON.stringify()</code>, 即 <code>JSON.parse(JSON.stringify())</code>。</p>
+<h3 id="json-parse-json-stringify"> JSON.parse(JSON.stringify())</h3>
+<p>这个方法应付一般的业务场景是足够的，但是当遇到一些特殊的数据的时候，会出现这样的或那样的问题：</p>
+<ol>
+<li>拷贝的对象的值中如果有函数、undefined、symbol 这几种类型，经过 JSON.stringify 序列化之后的字符串中这个键值对会消失；</li>
+<li>拷贝 Date 引用类型会变成字符串；</li>
+<li>无法拷贝不可枚举的属性；</li>
+<li>无法拷贝对象的原型链；</li>
+<li>拷贝 RegExp 引用类型会变成空对象；</li>
+<li>对象中含有 NaN、Infinity 以及 -Infinity，JSON 序列化的结果会变成 null；</li>
+<li>无法拷贝对象的循环应用，即对象成环 (obj[key] = obj)；</li>
+<li>直接拷贝 BigInt 会报错。</li>
+</ol>
+<p>那么如何应付<code>JSON.parse(JSON.stringify())</code>处理不了的场景呢？</p>
+<h3 id="第三方库"> 第三方库</h3>
+<p>其实很多第三方库已经帮我们做好了深拷贝的封装，我们直接调用即可：</p>
+<ol>
+<li>lodash.cloneDeep</li>
+<li>Jquery.extend</li>
+<li>immutable.fromJS().toJS()</li>
+<li>……</li>
+</ol>
+<p>有些时候，我们的项目里是没有引入这些第三方库，如果只是为了引入一个深拷贝方法而引入整个库就有些得不偿失了。此时手写拷贝就显得必要了。</p>
 <h2 id="手写一个深拷贝"> 手写一个深拷贝</h2>
 <p>想要手写一个完美无缺的深拷贝是非常困难的，但是也需要尽可能的将自己知道的所有可能影响拷贝的点罗列出来，并一一攻克它。</p>
-<p>需要注意的点：</p>
-<blockquote>
-<p>对象
-数组</p>
-</blockquote>
-<h3 id="基础版"> 基础版</h3>
-<div><pre><code><span>function</span> <span>deepClone</span><span>(</span><span>data</span><span>)</span> <span>{</span>
-    <span>if</span> <span>(</span><span>typeof</span> data <span>===</span> <span>'object'</span><span>)</span> <span>{</span>
-        <span>const</span> result <span>=</span> <span>{</span><span>}</span><span>;</span>
-        <span>for</span> <span>(</span><span>const</span> i <span>in</span> data<span>)</span> <span>{</span>
-            result<span>[</span>i<span>]</span> <span>=</span> <span>deepClone</span><span>(</span>data<span>[</span>i<span>]</span><span>)</span><span>;</span>
-        <span>}</span>
-        <span>return</span> result<span>;</span>
-    <span>}</span>
-    <span>else</span> <span>{</span>
-        <span>return</span> data<span>;</span>
-    <span>}</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div><h3 id="兼容数组"> 兼容数组</h3>
-<div><pre><code><span>function</span> <span>deepClone</span><span>(</span><span>data</span><span>)</span> <span>{</span>
-    <span>if</span> <span>(</span><span>typeof</span> data <span>===</span> <span>'object'</span><span>)</span> <span>{</span>
-        <span>const</span> result <span>=</span> Array<span>.</span><span>isArray</span><span>(</span>data<span>)</span> <span>?</span> <span>[</span><span>]</span> <span>:</span> <span>{</span><span>}</span><span>;</span>
-        <span>// const result = {};</span>
-        <span>for</span> <span>(</span><span>const</span> i <span>in</span> data<span>)</span> <span>{</span>
-            result<span>[</span>i<span>]</span> <span>=</span> <span>deepClone</span><span>(</span>data<span>[</span>i<span>]</span><span>)</span><span>;</span>
-        <span>}</span>
-        <span>return</span> result<span>;</span>
-    <span>}</span>
-    <span>else</span> <span>{</span>
-        <span>return</span> data<span>;</span>
-    <span>}</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><h3 id="兼容函数和null"> 兼容函数和null</h3>
-<div><pre><code><span>const</span> isObject <span>=</span> <span>isType</span><span>(</span><span>'Object'</span><span>)</span><span>;</span>
-<span>const</span> isFunction <span>=</span> <span>isType</span><span>(</span><span>'Function'</span><span>)</span><span>;</span>
-
-<span>function</span> <span>isType</span><span>(</span><span>type</span><span>)</span> <span>{</span>
-    <span>return</span> <span>(</span><span>data</span><span>)</span> <span>=></span> <span>{</span>
-        <span>return</span> <span>Object</span><span>.</span>prototype<span>.</span><span>toString</span><span>.</span><span>call</span><span>(</span>data<span>)</span>
-            <span>.</span><span>match</span><span>(</span><span><span>/</span><span>^\[object (.*)\]$</span><span>/</span></span><span>)</span><span>[</span><span>1</span><span>]</span> <span>===</span> type<span>;</span>
-    <span>}</span><span>;</span>
-<span>}</span><span>;</span>
-
-<span>function</span> <span>deepClone</span><span>(</span><span>data</span><span>)</span> <span>{</span>
-    <span>// 修改object判断条件，排除null</span>
-    <span>if</span> <span>(</span><span>isObject</span><span>(</span>data<span>)</span><span>)</span> <span>{</span>
-        <span>const</span> result <span>=</span> Array<span>.</span><span>isArray</span><span>(</span>data<span>)</span> <span>?</span> <span>[</span><span>]</span> <span>:</span> <span>{</span><span>}</span><span>;</span>
-        <span>for</span> <span>(</span><span>const</span> i <span>in</span> data<span>)</span> <span>{</span>
-            result<span>[</span>i<span>]</span> <span>=</span> <span>deepClone</span><span>(</span>data<span>[</span>i<span>]</span><span>)</span><span>;</span>
-        <span>}</span>
-        <span>return</span> result<span>;</span>
-    <span>}</span>
-    <span>else</span> <span>if</span> <span>(</span><span>isFunction</span><span>(</span>data<span>)</span><span>)</span> <span>{</span>
-        <span>// 克隆函数</span>
-        <span>const</span> <span>result</span> <span>=</span> <span>function</span><span>(</span><span>)</span> <span>{</span>
-            <span>data</span><span>.</span><span>call</span><span>(</span><span>this</span><span>,</span> <span>...</span>arguments<span>)</span><span>;</span>
-        <span>}</span><span>;</span>
-        <span>// 函数可以带有属性，此处克隆函数的属性</span>
-        <span>for</span> <span>(</span><span>const</span> i <span>in</span> data<span>)</span> <span>{</span>
-            result<span>[</span>i<span>]</span> <span>=</span> <span>deepClone</span><span>(</span>data<span>[</span>i<span>]</span><span>)</span><span>;</span>
-        <span>}</span>
-        <span>return</span> result<span>;</span>
-    <span>}</span>
-    <span>else</span> <span>{</span>
-        <span>return</span> data<span>;</span>
-    <span>}</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br></div></div><h3 id="兼容正则"> 兼容正则</h3>
-<div><pre><code><span>const</span> isObject <span>=</span> <span>isType</span><span>(</span><span>'Object'</span><span>)</span><span>;</span>
-<span>const</span> isFunction <span>=</span> <span>isType</span><span>(</span><span>'Function'</span><span>)</span><span>;</span>
-<span>const</span> isRegExp <span>=</span> <span>isType</span><span>(</span><span>'RegExp'</span><span>)</span><span>;</span>
-
-<span>function</span> <span>isType</span><span>(</span><span>type</span><span>)</span> <span>{</span>
+<p>以下是手写深拷贝时需要注意的点：</p>
+<ul>
+<li>对象</li>
+<li>数组</li>
+<li>null</li>
+<li>函数（函数可能附带属性）</li>
+<li>RegExp</li>
+<li>Date</li>
+<li>Symbol</li>
+<li>BigInt</li>
+<li>循环引用</li>
+<li>key为Symbol</li>
+<li>……</li>
+</ul>
+<h3 id="完整版"> 完整版</h3>
+<p>代码来源： <a href="https://juejin.cn/post/6844904197595332622#heading-13" target="_blank" rel="noopener noreferrer">https://juejin.cn/post/6844904197595332622#heading-13</a>.</p>
+<div><pre><code><span>function</span> <span>isType</span><span>(</span><span>type</span><span>)</span> <span>{</span>
     <span>return</span> <span>(</span><span>data</span><span>)</span> <span>=></span> <span>{</span>
         <span>return</span> <span>Object</span><span>.</span>prototype<span>.</span><span>toString</span><span>.</span><span>call</span><span>(</span>data<span>)</span>
         <span>.</span><span>match</span><span>(</span><span><span>/</span><span>^\[object (.*)\]$</span><span>/</span></span><span>)</span><span>[</span><span>1</span><span>]</span> <span>===</span> type<span>;</span>
     <span>}</span><span>;</span>
 <span>}</span><span>;</span>
 
-<span>function</span> <span>deepClone</span><span>(</span><span>data</span><span>)</span> <span>{</span>
-    <span>// 修改object判断条件，排除null</span>
-    <span>if</span> <span>(</span><span>isObject</span><span>(</span>data<span>)</span><span>)</span> <span>{</span>
-        <span>const</span> result <span>=</span> Array<span>.</span><span>isArray</span><span>(</span>data<span>)</span> <span>?</span> <span>[</span><span>]</span> <span>:</span> <span>{</span><span>}</span><span>;</span>
-        <span>for</span> <span>(</span><span>const</span> i <span>in</span> data<span>)</span> <span>{</span>
-            result<span>[</span>i<span>]</span> <span>=</span> <span>deepClone</span><span>(</span>data<span>[</span>i<span>]</span><span>)</span><span>;</span>
-        <span>}</span>
-        <span>return</span> result<span>;</span>
-    <span>}</span>
-    <span>else</span> <span>if</span> <span>(</span><span>isFunction</span><span>(</span>data<span>)</span><span>)</span> <span>{</span>
-        <span>// 克隆函数</span>
-        <span>const</span> <span>result</span> <span>=</span> <span>function</span><span>(</span><span>)</span> <span>{</span>
-            <span>data</span><span>.</span><span>call</span><span>(</span><span>this</span><span>,</span> <span>...</span>arguments<span>)</span><span>;</span>
-        <span>}</span><span>;</span>
-        <span>// 函数可以带有属性，此处克隆函数的属性</span>
-        <span>for</span> <span>(</span><span>const</span> i <span>in</span> data<span>)</span> <span>{</span>
-            result<span>[</span>i<span>]</span> <span>=</span> <span>deepClone</span><span>(</span>data<span>[</span>i<span>]</span><span>)</span><span>;</span>
-        <span>}</span>
-        <span>return</span> result<span>;</span>
-    <span>}</span>
-    <span>// 新增正则的判断</span>
-    <span>else</span> <span>if</span> <span>(</span><span>isRegExp</span><span>(</span>data<span>)</span><span>)</span> <span>{</span>
-        <span>// https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/RegExp</span>
-        <span>return</span> <span>new</span> <span>RegExp</span><span>(</span>data<span>.</span>source<span>,</span> data<span>.</span>flag<span>)</span><span>;</span>
-    <span>}</span>
-    <span>else</span> <span>{</span>
-        <span>return</span> data<span>;</span>
-    <span>}</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br></div></div><h3 id="兼容date"> 兼容Date</h3>
-<div><pre><code><span>const</span> isObject <span>=</span> <span>isType</span><span>(</span><span>'Object'</span><span>)</span><span>;</span>
-<span>const</span> isFunction <span>=</span> <span>isType</span><span>(</span><span>'Function'</span><span>)</span><span>;</span>
 <span>const</span> isRegExp <span>=</span> <span>isType</span><span>(</span><span>'RegExp'</span><span>)</span><span>;</span>
-<span>const</span> isDate <span>=</span> <span>isType</span><span>(</span><span>'Date'</span><span>)</span><span>;</span>
-
-<span>function</span> <span>isType</span><span>(</span><span>type</span><span>)</span> <span>{</span>
-    <span>return</span> <span>(</span><span>data</span><span>)</span> <span>=></span> <span>{</span>
-        <span>return</span> <span>Object</span><span>.</span>prototype<span>.</span><span>toString</span><span>.</span><span>call</span><span>(</span>data<span>)</span>
-        <span>.</span><span>match</span><span>(</span><span><span>/</span><span>^\[object (.*)\]$</span><span>/</span></span><span>)</span><span>[</span><span>1</span><span>]</span> <span>===</span> type<span>;</span>
-    <span>}</span><span>;</span>
-<span>}</span><span>;</span>
-
-<span>function</span> <span>deepClone</span><span>(</span><span>data</span><span>)</span> <span>{</span>
-    <span>// 修改object判断条件，排除null</span>
-    <span>if</span> <span>(</span><span>isObject</span><span>(</span>data<span>)</span><span>)</span> <span>{</span>
-        <span>const</span> result <span>=</span> Array<span>.</span><span>isArray</span><span>(</span>data<span>)</span> <span>?</span> <span>[</span><span>]</span> <span>:</span> <span>{</span><span>}</span><span>;</span>
-        <span>for</span> <span>(</span><span>const</span> i <span>in</span> data<span>)</span> <span>{</span>
-            result<span>[</span>i<span>]</span> <span>=</span> <span>deepClone</span><span>(</span>data<span>[</span>i<span>]</span><span>)</span><span>;</span>
-        <span>}</span>
-        <span>return</span> result<span>;</span>
-    <span>}</span>
-    <span>else</span> <span>if</span> <span>(</span><span>isFunction</span><span>(</span>data<span>)</span><span>)</span> <span>{</span>
-        <span>// 克隆函数</span>
-        <span>const</span> <span>result</span> <span>=</span> <span>function</span><span>(</span><span>)</span> <span>{</span>
-            <span>data</span><span>.</span><span>call</span><span>(</span><span>this</span><span>,</span> <span>...</span>arguments<span>)</span><span>;</span>
-        <span>}</span><span>;</span>
-        <span>// 函数可以带有属性，此处克隆函数的属性</span>
-        <span>for</span> <span>(</span><span>const</span> i <span>in</span> data<span>)</span> <span>{</span>
-            result<span>[</span>i<span>]</span> <span>=</span> <span>deepClone</span><span>(</span>data<span>[</span>i<span>]</span><span>)</span><span>;</span>
-        <span>}</span>
-        <span>return</span> result<span>;</span>
-    <span>}</span>
-    <span>else</span> <span>if</span> <span>(</span><span>isRegExp</span><span>(</span>data<span>)</span><span>)</span> <span>{</span>
-        <span>// https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/RegExp</span>
-        <span>return</span> <span>new</span> <span>RegExp</span><span>(</span>data<span>.</span>source<span>,</span> data<span>.</span>flag<span>)</span><span>;</span>
-    <span>}</span>
-    <span>// 新增日期校验</span>
-    <span>else</span> <span>if</span> <span>(</span><span>isDate</span><span>(</span>data<span>)</span><span>)</span> <span>{</span>
-        <span>return</span> <span>new</span> <span>Date</span><span>(</span>data<span>)</span><span>;</span>
-    <span>}</span>
-    <span>else</span> <span>{</span>
-        <span>return</span> data<span>;</span>
-    <span>}</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br></div></div><h3 id="兼容循环引用"> 兼容循环引用</h3>
-<p>参考： https://juejin.cn/post/6844904197595332622#heading-13</p>
-<div><pre><code><span>const</span> isRegExp <span>=</span> <span>isType</span><span>(</span><span>'RegExp'</span><span>)</span><span>;</span>
 <span>const</span> isDate <span>=</span> <span>isType</span><span>(</span><span>'Date'</span><span>)</span><span>;</span>
 
 <span>function</span> <span>deepClone</span><span>(</span>obj<span>,</span> hash <span>=</span> <span>new</span> <span>WeakMap</span><span>(</span><span>)</span><span>)</span> <span>{</span>
-    <span>if</span> <span>(</span>obj <span>===</span> <span>null</span><span>)</span> <span>return</span> obj<span>;</span> <span>// 如果是null或者undefined我就不进行拷贝操作</span>
+    <span>// 如果是null或者undefined我就不进行拷贝操作</span>
+    <span>if</span> <span>(</span>obj <span>===</span> <span>null</span><span>)</span> <span>return</span> obj<span>;</span>
     <span>if</span> <span>(</span><span>isDate</span><span>(</span>obj<span>)</span><span>)</span> <span>return</span> <span>new</span> <span>Date</span><span>(</span>obj<span>)</span><span>;</span>
     <span>if</span> <span>(</span><span>isRegExp</span><span>(</span>obj<span>)</span><span>)</span> <span>return</span> <span>new</span> <span>RegExp</span><span>(</span>obj<span>)</span><span>;</span>
     <span>// 可能是对象或者普通的值  如果是函数的话是不需要深拷贝</span>
@@ -1461,10 +1431,16 @@ $$
     <span>return</span> cloneObj<span>;</span>
 <span>}</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br></div></div><h3 id="兼容key为symbol"> 兼容key为Symbol</h3>
-<div><pre><code>
-</code></pre>
-<div><span>1</span><br></div></div><h2 id="附"> 附</h2>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br></div></div><p>以上深拷贝已几近完美，但仍有两点趋于完善：</p>
+<ol>
+<li>没有拷贝函数的属性；</li>
+<li>没有考虑 key 为 Symbol 的情况。</li>
+</ol>
+<h2 id="参考"> 参考</h2>
+<ol>
+<li><a href="https://juejin.cn/post/6844904197595332622" target="_blank" rel="noopener noreferrer">浅拷贝与深拷贝</a>.</li>
+</ol>
+<h2 id="附"> 附</h2>
 <ol>
 <li>拷贝元数据示例.</li>
 </ol>
@@ -1505,14 +1481,14 @@ Object<span>.</span><span>defineProperty</span><span>(</span>origin<span>,</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">闭包</title>
     <id>https://hbuecx.com/fontEnd/javascript/closure/</id>
     <link href="https://hbuecx.com/fontEnd/javascript/closure/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<h2 id="参考"> 参考</h2>
 <ol>
 <li><a href="https://www.cnblogs.com/mingo233/p/13582147.html" target="_blank" rel="noopener noreferrer">JavaScript闭包（内存泄漏、溢出以及内存回收），超直白解析</a>.</li>
@@ -1525,14 +1501,14 @@ Object<span>.</span><span>defineProperty</span><span>(</span>origin<span>,</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">跨域</title>
     <id>https://hbuecx.com/fontEnd/javascript/cross/</id>
     <link href="https://hbuecx.com/fontEnd/javascript/cross/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<h2 id="参考"> 参考</h2>
 <ol>
 <li><a href="https://mp.weixin.qq.com/s/uGyhnakUUKfF2STa33FkCg" target="_blank" rel="noopener noreferrer">从面试官角度看一次前端面试经历</a>.</li>
@@ -1545,14 +1521,14 @@ Object<span>.</span><span>defineProperty</span><span>(</span>origin<span>,</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">柯里化</title>
     <id>https://hbuecx.com/fontEnd/javascript/currie/</id>
     <link href="https://hbuecx.com/fontEnd/javascript/currie/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>http://www.ruanyifeng.com/blog/2017/03/ramda.html</p>
 ]]></content>
     <author>
@@ -1561,28 +1537,28 @@ Object<span>.</span><span>defineProperty</span><span>(</span>origin<span>,</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">立即执行函数</title>
     <id>https://hbuecx.com/fontEnd/javascript/executedImmediately/</id>
     <link href="https://hbuecx.com/fontEnd/javascript/executedImmediately/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <author>
       <name>白山</name>
     </author>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">继承</title>
     <id>https://hbuecx.com/fontEnd/javascript/extends/</id>
     <link href="https://hbuecx.com/fontEnd/javascript/extends/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<h1 id="参考链接"> 参考链接</h1>
 <ol>
 <li><a href="https://www.cnblogs.com/czkolve/p/10849226.html" target="_blank" rel="noopener noreferrer">es5继承和es6类和继承</a>.</li>
@@ -1597,84 +1573,96 @@ Object<span>.</span><span>defineProperty</span><span>(</span>origin<span>,</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">浮点数精度</title>
     <id>https://hbuecx.com/fontEnd/javascript/float/</id>
     <link href="https://hbuecx.com/fontEnd/javascript/float/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <author>
       <name>白山</name>
     </author>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">generator原理</title>
     <id>https://hbuecx.com/fontEnd/javascript/generator/</id>
     <link href="https://hbuecx.com/fontEnd/javascript/generator/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <author>
       <name>白山</name>
     </author>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">事件循环机制</title>
     <id>https://hbuecx.com/fontEnd/javascript/loop/</id>
     <link href="https://hbuecx.com/fontEnd/javascript/loop/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
+    <content type="html"><![CDATA[<div><p>相关信息</p>
+<p>在异步模式下，创建异步任务主要分为宏任务与微任务两种。ES6 规范中，宏任务（Macrotask） 称为 Task， 微任务（Microtask） 称为 Jobs。<strong><code>宏任务是由宿主（浏览器、Node）发起的，而微任务由 JS 自身发起</code></strong>。</p>
+<div>
+<p>——摘自<a href="https://juejin.cn/post/6945319439772434469" target="_blank" rel="noopener noreferrer">掘金</a></p>
+</div>
+</div>
+]]></content>
     <author>
       <name>白山</name>
     </author>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">new操作符</title>
     <id>https://hbuecx.com/fontEnd/javascript/new/</id>
     <link href="https://hbuecx.com/fontEnd/javascript/new/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <author>
       <name>白山</name>
     </author>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">promise原理</title>
     <id>https://hbuecx.com/fontEnd/javascript/promise/</id>
     <link href="https://hbuecx.com/fontEnd/javascript/promise/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="参考"> 参考</h2>
+<ol>
+<li><a href="https://juejin.cn/post/6945319439772434469" target="_blank" rel="noopener noreferrer">从一道让我失眠的 Promise 面试题开始，深入分析 Promise 实现细节</a>.</li>
+</ol>
+]]></content>
     <author>
       <name>白山</name>
     </author>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">原型链</title>
     <id>https://hbuecx.com/fontEnd/javascript/prototype/</id>
     <link href="https://hbuecx.com/fontEnd/javascript/prototype/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<h2 id="参考链接"> 参考链接</h2>
 <ol>
 <li><a href="https://segmentfault.com/a/1190000021232132" target="_blank" rel="noopener noreferrer">一张图搞定JS原型&amp;原型链</a>.</li>
@@ -1686,44 +1674,44 @@ Object<span>.</span><span>defineProperty</span><span>(</span>origin<span>,</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">作用域</title>
     <id>https://hbuecx.com/fontEnd/javascript/scope/</id>
     <link href="https://hbuecx.com/fontEnd/javascript/scope/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <author>
       <name>白山</name>
     </author>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">this的指向</title>
     <id>https://hbuecx.com/fontEnd/javascript/this/</id>
     <link href="https://hbuecx.com/fontEnd/javascript/this/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <author>
       <name>白山</name>
     </author>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">数据类型判断</title>
     <id>https://hbuecx.com/fontEnd/javascript/typeof/</id>
     <link href="https://hbuecx.com/fontEnd/javascript/typeof/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[
-<p>JS是一门弱类型预演，这允许我们使用 <code>var/let/const</code> 等关键字来声明变量，而这些变量本身是不具备具体类型的，它的类型取决于当时所被赋予的数据。</p>
+<p>JS是一门弱类型语言，这允许我们使用 <code>var/let/const</code> 等关键字来声明变量，而这些变量本身是不具备具体类型的，它的类型取决于当时所被赋予的数据。</p>
 <p>在某些情况下，我们需要获取数据的具体类型来做一些逻辑业务上的处理。所以对于数据类型的判断，也是前端开发人员的基本功之一。</p>
 <h2 id="常见的数据类型判断方法"> 常见的数据类型判断方法</h2>
 <p>常见的数据类型判断方法主要是以下三种：</p>
@@ -1805,42 +1793,48 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">v8垃圾回收机制</title>
     <id>https://hbuecx.com/fontEnd/javascript/v8/</id>
     <link href="https://hbuecx.com/fontEnd/javascript/v8/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="参考"> 参考</h2>
+<ol>
+<li><a href="https://juejin.cn/post/6844904016325902344" target="_blank" rel="noopener noreferrer">一文搞懂V8引擎的垃圾回收</a>.</li>
+<li><a href="https://juejin.cn/post/6942643533417283591" target="_blank" rel="noopener noreferrer">从V8角度揭秘你不知道的面试八股文</a>.</li>
+</ol>
+]]></content>
     <author>
       <name>白山</name>
     </author>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">变量提升</title>
     <id>https://hbuecx.com/fontEnd/javascript/variableAscension/</id>
     <link href="https://hbuecx.com/fontEnd/javascript/variableAscension/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <author>
       <name>白山</name>
     </author>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">每日学习</title>
     <id>https://hbuecx.com/fontEnd/learning/</id>
     <link href="https://hbuecx.com/fontEnd/learning/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<template>
     <div>
         <div v-for="(learn, index) in learnList" :key="index">
@@ -1863,14 +1857,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">网络</title>
     <id>https://hbuecx.com/fontEnd/network/</id>
     <link href="https://hbuecx.com/fontEnd/network/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -1879,14 +1873,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">http</title>
     <id>https://hbuecx.com/fontEnd/network/http/</id>
     <link href="https://hbuecx.com/fontEnd/network/http/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -1895,14 +1889,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">http2.0</title>
     <id>https://hbuecx.com/fontEnd/network/http2.0/</id>
     <link href="https://hbuecx.com/fontEnd/network/http2.0/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -1911,14 +1905,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">http3.0</title>
     <id>https://hbuecx.com/fontEnd/network/http3.0/</id>
     <link href="https://hbuecx.com/fontEnd/network/http3.0/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -1927,14 +1921,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">https</title>
     <id>https://hbuecx.com/fontEnd/network/https/</id>
     <link href="https://hbuecx.com/fontEnd/network/https/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -1943,14 +1937,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">七层网络模型</title>
     <id>https://hbuecx.com/fontEnd/network/model/</id>
     <link href="https://hbuecx.com/fontEnd/network/model/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -1959,14 +1953,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">tcp</title>
     <id>https://hbuecx.com/fontEnd/network/tcp/</id>
     <link href="https://hbuecx.com/fontEnd/network/tcp/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -1975,14 +1969,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">udp</title>
     <id>https://hbuecx.com/fontEnd/network/udp/</id>
     <link href="https://hbuecx.com/fontEnd/network/udp/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -1991,14 +1985,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">websocket</title>
     <id>https://hbuecx.com/fontEnd/network/websocket/</id>
     <link href="https://hbuecx.com/fontEnd/network/websocket/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2007,14 +2001,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">Node</title>
     <id>https://hbuecx.com/fontEnd/node/</id>
     <link href="https://hbuecx.com/fontEnd/node/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2023,14 +2017,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">异常处理</title>
     <id>https://hbuecx.com/fontEnd/node/catch/</id>
     <link href="https://hbuecx.com/fontEnd/node/catch/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2039,14 +2033,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">cluster原理</title>
     <id>https://hbuecx.com/fontEnd/node/cluster/</id>
     <link href="https://hbuecx.com/fontEnd/node/cluster/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2055,14 +2049,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">进程通信</title>
     <id>https://hbuecx.com/fontEnd/node/communication/</id>
     <link href="https://hbuecx.com/fontEnd/node/communication/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2071,14 +2065,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">事件循环</title>
     <id>https://hbuecx.com/fontEnd/node/loop/</id>
     <link href="https://hbuecx.com/fontEnd/node/loop/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2087,14 +2081,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">模块机制</title>
     <id>https://hbuecx.com/fontEnd/node/module/</id>
     <link href="https://hbuecx.com/fontEnd/node/module/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2103,14 +2097,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">pipe原理</title>
     <id>https://hbuecx.com/fontEnd/node/pipe/</id>
     <link href="https://hbuecx.com/fontEnd/node/pipe/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2119,14 +2113,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">守护进程</title>
     <id>https://hbuecx.com/fontEnd/node/provide/</id>
     <link href="https://hbuecx.com/fontEnd/node/provide/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2135,14 +2129,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">require原理</title>
     <id>https://hbuecx.com/fontEnd/node/require/</id>
     <link href="https://hbuecx.com/fontEnd/node/require/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2151,14 +2145,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">流机制</title>
     <id>https://hbuecx.com/fontEnd/node/stream/</id>
     <link href="https://hbuecx.com/fontEnd/node/stream/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2167,14 +2161,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">其他</title>
     <id>https://hbuecx.com/fontEnd/others/</id>
     <link href="https://hbuecx.com/fontEnd/others/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2183,14 +2177,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">性能</title>
     <id>https://hbuecx.com/fontEnd/performance/</id>
     <link href="https://hbuecx.com/fontEnd/performance/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2199,14 +2193,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">动画性能</title>
     <id>https://hbuecx.com/fontEnd/performance/animation/</id>
     <link href="https://hbuecx.com/fontEnd/performance/animation/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2215,14 +2209,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">白屏</title>
     <id>https://hbuecx.com/fontEnd/performance/hang/</id>
     <link href="https://hbuecx.com/fontEnd/performance/hang/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2231,14 +2225,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">大量图片加载优化</title>
     <id>https://hbuecx.com/fontEnd/performance/images/</id>
     <link href="https://hbuecx.com/fontEnd/performance/images/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2247,14 +2241,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">前端性能优化指标RAIL</title>
     <id>https://hbuecx.com/fontEnd/performance/indicator/</id>
     <link href="https://hbuecx.com/fontEnd/performance/indicator/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2263,14 +2257,14 @@ console<span>.</span><span>log</span><span>(</span>driver <span>instanceof</span
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">前端性能优化手段</title>
     <id>https://hbuecx.com/fontEnd/performance/optimize/</id>
     <link href="https://hbuecx.com/fontEnd/performance/optimize/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容
 https://juejin.cn/post/6892994632968306702</p>
 ]]></content>
@@ -2280,14 +2274,14 @@ https://juejin.cn/post/6892994632968306702</p>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">重绘和重排</title>
     <id>https://hbuecx.com/fontEnd/performance/redraw/</id>
     <link href="https://hbuecx.com/fontEnd/performance/redraw/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2296,14 +2290,14 @@ https://juejin.cn/post/6892994632968306702</p>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">渲染合成层</title>
     <id>https://hbuecx.com/fontEnd/performance/render/</id>
     <link href="https://hbuecx.com/fontEnd/performance/render/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2312,220 +2306,14 @@ https://juejin.cn/post/6892994632968306702</p>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
-    <rights>Copyright by 白山</rights>
-  </entry>
-  <entry>
-    <title type="html">从输入URL到浏览器渲染的全过程</title>
-    <id>https://hbuecx.com/fontEnd/performance/url/</id>
-    <link href="https://hbuecx.com/fontEnd/performance/url/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
-    <content type="html"><![CDATA[<p>暂无内容</p>
-]]></content>
-    <author>
-      <name>白山</name>
-    </author>
-    <contributor>
-      <name>白山</name>
-    </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
-    <rights>Copyright by 白山</rights>
-  </entry>
-  <entry>
-    <title type="html">高阶组件</title>
-    <id>https://hbuecx.com/fontEnd/react/HOC/</id>
-    <link href="https://hbuecx.com/fontEnd/react/HOC/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
-    <content type="html"><![CDATA[<p>暂无内容</p>
-]]></content>
-    <author>
-      <name>白山</name>
-    </author>
-    <contributor>
-      <name>白山</name>
-    </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
-    <rights>Copyright by 白山</rights>
-  </entry>
-  <entry>
-    <title type="html">React</title>
-    <id>https://hbuecx.com/fontEnd/react/</id>
-    <link href="https://hbuecx.com/fontEnd/react/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
-    <content type="html"><![CDATA[<p>暂无内容</p>
-]]></content>
-    <author>
-      <name>白山</name>
-    </author>
-    <contributor>
-      <name>白山</name>
-    </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
-    <rights>Copyright by 白山</rights>
-  </entry>
-  <entry>
-    <title type="html">virtual dom</title>
-    <id>https://hbuecx.com/fontEnd/react/VDom/</id>
-    <link href="https://hbuecx.com/fontEnd/react/VDom/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
-    <content type="html"><![CDATA[<p>暂无内容</p>
-]]></content>
-    <author>
-      <name>白山</name>
-    </author>
-    <contributor>
-      <name>白山</name>
-    </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
-    <rights>Copyright by 白山</rights>
-  </entry>
-  <entry>
-    <title type="html">错误处理</title>
-    <id>https://hbuecx.com/fontEnd/react/error/</id>
-    <link href="https://hbuecx.com/fontEnd/react/error/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
-    <content type="html"><![CDATA[<p>暂无内容</p>
-]]></content>
-    <author>
-      <name>白山</name>
-    </author>
-    <contributor>
-      <name>白山</name>
-    </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
-    <rights>Copyright by 白山</rights>
-  </entry>
-  <entry>
-    <title type="html">fiber</title>
-    <id>https://hbuecx.com/fontEnd/react/fiber/</id>
-    <link href="https://hbuecx.com/fontEnd/react/fiber/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
-    <content type="html"><![CDATA[<p>暂无内容</p>
-]]></content>
-    <author>
-      <name>白山</name>
-    </author>
-    <contributor>
-      <name>白山</name>
-    </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
-    <rights>Copyright by 白山</rights>
-  </entry>
-  <entry>
-    <title type="html">性能优化</title>
-    <id>https://hbuecx.com/fontEnd/react/performance/</id>
-    <link href="https://hbuecx.com/fontEnd/react/performance/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
-    <content type="html"><![CDATA[<p>暂无内容</p>
-]]></content>
-    <author>
-      <name>白山</name>
-    </author>
-    <contributor>
-      <name>白山</name>
-    </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
-    <rights>Copyright by 白山</rights>
-  </entry>
-  <entry>
-    <title type="html">setState过程</title>
-    <id>https://hbuecx.com/fontEnd/react/setState/</id>
-    <link href="https://hbuecx.com/fontEnd/react/setState/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
-    <content type="html"><![CDATA[<p>暂无内容</p>
-]]></content>
-    <author>
-      <name>白山</name>
-    </author>
-    <contributor>
-      <name>白山</name>
-    </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
-    <rights>Copyright by 白山</rights>
-  </entry>
-  <entry>
-    <title type="html">合成事件</title>
-    <id>https://hbuecx.com/fontEnd/react/synthetic/</id>
-    <link href="https://hbuecx.com/fontEnd/react/synthetic/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
-    <content type="html"><![CDATA[<p>暂无内容</p>
-]]></content>
-    <author>
-      <name>白山</name>
-    </author>
-    <contributor>
-      <name>白山</name>
-    </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
-    <rights>Copyright by 白山</rights>
-  </entry>
-  <entry>
-    <title type="html">博客主页</title>
-    <id>https://hbuecx.com/fontEnd/</id>
-    <link href="https://hbuecx.com/fontEnd/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
-    <author>
-      <name>白山</name>
-    </author>
-    <contributor>
-      <name>白山</name>
-    </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
-    <rights>Copyright by 白山</rights>
-  </entry>
-  <entry>
-    <title type="html">Redux</title>
-    <id>https://hbuecx.com/fontEnd/redux/</id>
-    <link href="https://hbuecx.com/fontEnd/redux/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
-    <content type="html"><![CDATA[<p>暂无内容</p>
-]]></content>
-    <author>
-      <name>白山</name>
-    </author>
-    <contributor>
-      <name>白山</name>
-    </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
-    <rights>Copyright by 白山</rights>
-  </entry>
-  <entry>
-    <title type="html">redux核心逻辑</title>
-    <id>https://hbuecx.com/fontEnd/redux/logic/</id>
-    <link href="https://hbuecx.com/fontEnd/redux/logic/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
-    <content type="html"><![CDATA[<p>暂无内容</p>
-]]></content>
-    <author>
-      <name>白山</name>
-    </author>
-    <contributor>
-      <name>白山</name>
-    </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
-    <rights>Copyright by 白山</rights>
-  </entry>
-  <entry>
-    <title type="html">redux核心原则</title>
-    <id>https://hbuecx.com/fontEnd/redux/rule/</id>
-    <link href="https://hbuecx.com/fontEnd/redux/rule/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
-    <content type="html"><![CDATA[<p>暂无内容</p>
-]]></content>
-    <author>
-      <name>白山</name>
-    </author>
-    <contributor>
-      <name>白山</name>
-    </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">性能监控与数据上报</title>
     <id>https://hbuecx.com/fontEnd/performance/report/</id>
     <link href="https://hbuecx.com/fontEnd/performance/report/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<h2 id="参考"> 参考</h2>
 <ol>
 <li><a href="https://juejin.cn/post/6844903998412029959" target="_blank" rel="noopener noreferrer">前端性能和错误监控</a>.</li>
@@ -2537,30 +2325,252 @@ https://juejin.cn/post/6892994632968306702</p>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
-    <title type="html">幻灯片页</title>
-    <id>https://hbuecx.com/fontEnd/slides/</id>
-    <link href="https://hbuecx.com/fontEnd/slides/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
-    <content type="html"><![CDATA[
-<i>Not supported content</i>]]></content>
+    <title type="html">从输入URL到浏览器渲染的全过程</title>
+    <id>https://hbuecx.com/fontEnd/performance/url/</id>
+    <link href="https://hbuecx.com/fontEnd/performance/url/"/>
+    <updated>2021-04-07T09:48:49.000Z</updated>
+    <content type="html"><![CDATA[<p>暂无内容</p>
+]]></content>
     <author>
       <name>白山</name>
     </author>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
+    <rights>Copyright by 白山</rights>
+  </entry>
+  <entry>
+    <title type="html">高阶组件</title>
+    <id>https://hbuecx.com/fontEnd/react/HOC/</id>
+    <link href="https://hbuecx.com/fontEnd/react/HOC/"/>
+    <updated>2021-04-07T09:48:49.000Z</updated>
+    <content type="html"><![CDATA[<p>暂无内容</p>
+]]></content>
+    <author>
+      <name>白山</name>
+    </author>
+    <contributor>
+      <name>白山</name>
+    </contributor>
+    <published>2021-04-07T09:48:49.000Z</published>
+    <rights>Copyright by 白山</rights>
+  </entry>
+  <entry>
+    <title type="html">React</title>
+    <id>https://hbuecx.com/fontEnd/react/</id>
+    <link href="https://hbuecx.com/fontEnd/react/"/>
+    <updated>2021-04-07T09:48:49.000Z</updated>
+    <content type="html"><![CDATA[<p>暂无内容</p>
+]]></content>
+    <author>
+      <name>白山</name>
+    </author>
+    <contributor>
+      <name>白山</name>
+    </contributor>
+    <published>2021-04-07T09:48:49.000Z</published>
+    <rights>Copyright by 白山</rights>
+  </entry>
+  <entry>
+    <title type="html">virtual dom</title>
+    <id>https://hbuecx.com/fontEnd/react/VDom/</id>
+    <link href="https://hbuecx.com/fontEnd/react/VDom/"/>
+    <updated>2021-04-07T09:48:49.000Z</updated>
+    <content type="html"><![CDATA[<p>暂无内容</p>
+]]></content>
+    <author>
+      <name>白山</name>
+    </author>
+    <contributor>
+      <name>白山</name>
+    </contributor>
+    <published>2021-04-07T09:48:49.000Z</published>
+    <rights>Copyright by 白山</rights>
+  </entry>
+  <entry>
+    <title type="html">错误处理</title>
+    <id>https://hbuecx.com/fontEnd/react/error/</id>
+    <link href="https://hbuecx.com/fontEnd/react/error/"/>
+    <updated>2021-04-07T09:48:49.000Z</updated>
+    <content type="html"><![CDATA[<p>暂无内容</p>
+]]></content>
+    <author>
+      <name>白山</name>
+    </author>
+    <contributor>
+      <name>白山</name>
+    </contributor>
+    <published>2021-04-07T09:48:49.000Z</published>
+    <rights>Copyright by 白山</rights>
+  </entry>
+  <entry>
+    <title type="html">fiber</title>
+    <id>https://hbuecx.com/fontEnd/react/fiber/</id>
+    <link href="https://hbuecx.com/fontEnd/react/fiber/"/>
+    <updated>2021-04-07T09:48:49.000Z</updated>
+    <content type="html"><![CDATA[<p>暂无内容</p>
+]]></content>
+    <author>
+      <name>白山</name>
+    </author>
+    <contributor>
+      <name>白山</name>
+    </contributor>
+    <published>2021-04-07T09:48:49.000Z</published>
+    <rights>Copyright by 白山</rights>
+  </entry>
+  <entry>
+    <title type="html">性能优化</title>
+    <id>https://hbuecx.com/fontEnd/react/performance/</id>
+    <link href="https://hbuecx.com/fontEnd/react/performance/"/>
+    <updated>2021-04-07T09:48:49.000Z</updated>
+    <content type="html"><![CDATA[<p>暂无内容</p>
+]]></content>
+    <author>
+      <name>白山</name>
+    </author>
+    <contributor>
+      <name>白山</name>
+    </contributor>
+    <published>2021-04-07T09:48:49.000Z</published>
+    <rights>Copyright by 白山</rights>
+  </entry>
+  <entry>
+    <title type="html">setState过程</title>
+    <id>https://hbuecx.com/fontEnd/react/setState/</id>
+    <link href="https://hbuecx.com/fontEnd/react/setState/"/>
+    <updated>2021-04-07T09:48:49.000Z</updated>
+    <content type="html"><![CDATA[<p>暂无内容</p>
+]]></content>
+    <author>
+      <name>白山</name>
+    </author>
+    <contributor>
+      <name>白山</name>
+    </contributor>
+    <published>2021-04-07T09:48:49.000Z</published>
+    <rights>Copyright by 白山</rights>
+  </entry>
+  <entry>
+    <title type="html">合成事件</title>
+    <id>https://hbuecx.com/fontEnd/react/synthetic/</id>
+    <link href="https://hbuecx.com/fontEnd/react/synthetic/"/>
+    <updated>2021-04-07T09:48:49.000Z</updated>
+    <content type="html"><![CDATA[<p>暂无内容</p>
+]]></content>
+    <author>
+      <name>白山</name>
+    </author>
+    <contributor>
+      <name>白山</name>
+    </contributor>
+    <published>2021-04-07T09:48:49.000Z</published>
+    <rights>Copyright by 白山</rights>
+  </entry>
+  <entry>
+    <title type="html">博客主页</title>
+    <id>https://hbuecx.com/fontEnd/</id>
+    <link href="https://hbuecx.com/fontEnd/"/>
+    <updated>2021-04-07T09:48:49.000Z</updated>
+    <author>
+      <name>白山</name>
+    </author>
+    <contributor>
+      <name>白山</name>
+    </contributor>
+    <published>2021-04-07T09:48:49.000Z</published>
+    <rights>Copyright by 白山</rights>
+  </entry>
+  <entry>
+    <title type="html">Redux</title>
+    <id>https://hbuecx.com/fontEnd/redux/</id>
+    <link href="https://hbuecx.com/fontEnd/redux/"/>
+    <updated>2021-04-07T09:48:49.000Z</updated>
+    <content type="html"><![CDATA[<p>暂无内容</p>
+]]></content>
+    <author>
+      <name>白山</name>
+    </author>
+    <contributor>
+      <name>白山</name>
+    </contributor>
+    <published>2021-04-07T09:48:49.000Z</published>
+    <rights>Copyright by 白山</rights>
+  </entry>
+  <entry>
+    <title type="html">redux核心逻辑</title>
+    <id>https://hbuecx.com/fontEnd/redux/logic/</id>
+    <link href="https://hbuecx.com/fontEnd/redux/logic/"/>
+    <updated>2021-04-07T09:48:49.000Z</updated>
+    <content type="html"><![CDATA[<p>暂无内容</p>
+]]></content>
+    <author>
+      <name>白山</name>
+    </author>
+    <contributor>
+      <name>白山</name>
+    </contributor>
+    <published>2021-04-07T09:48:49.000Z</published>
+    <rights>Copyright by 白山</rights>
+  </entry>
+  <entry>
+    <title type="html">redux核心原则</title>
+    <id>https://hbuecx.com/fontEnd/redux/rule/</id>
+    <link href="https://hbuecx.com/fontEnd/redux/rule/"/>
+    <updated>2021-04-07T09:48:49.000Z</updated>
+    <content type="html"><![CDATA[<p>暂无内容</p>
+]]></content>
+    <author>
+      <name>白山</name>
+    </author>
+    <contributor>
+      <name>白山</name>
+    </contributor>
+    <published>2021-04-07T09:48:49.000Z</published>
+    <rights>Copyright by 白山</rights>
+  </entry>
+  <entry>
+    <title type="html">进程通信</title>
+    <id>https://hbuecx.com/fontEnd/system/communication/</id>
+    <link href="https://hbuecx.com/fontEnd/system/communication/"/>
+    <updated>2021-04-07T09:48:49.000Z</updated>
+    <content type="html"><![CDATA[<p>暂无内容</p>
+]]></content>
+    <author>
+      <name>白山</name>
+    </author>
+    <contributor>
+      <name>白山</name>
+    </contributor>
+    <published>2021-04-07T09:48:49.000Z</published>
+    <rights>Copyright by 白山</rights>
+  </entry>
+  <entry>
+    <title type="html">IO多路复用</title>
+    <id>https://hbuecx.com/fontEnd/system/io/</id>
+    <link href="https://hbuecx.com/fontEnd/system/io/"/>
+    <updated>2021-04-07T09:48:49.000Z</updated>
+    <content type="html"><![CDATA[<p>暂无内容</p>
+]]></content>
+    <author>
+      <name>白山</name>
+    </author>
+    <contributor>
+      <name>白山</name>
+    </contributor>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">死锁</title>
     <id>https://hbuecx.com/fontEnd/system/lock/</id>
     <link href="https://hbuecx.com/fontEnd/system/lock/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2569,30 +2579,14 @@ https://juejin.cn/post/6892994632968306702</p>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
-    <rights>Copyright by 白山</rights>
-  </entry>
-  <entry>
-    <title type="html">进程与线程</title>
-    <id>https://hbuecx.com/fontEnd/system/process/</id>
-    <link href="https://hbuecx.com/fontEnd/system/process/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
-    <content type="html"><![CDATA[<p>暂无内容</p>
-]]></content>
-    <author>
-      <name>白山</name>
-    </author>
-    <contributor>
-      <name>白山</name>
-    </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">进程调度策略</title>
     <id>https://hbuecx.com/fontEnd/system/schedule/</id>
     <link href="https://hbuecx.com/fontEnd/system/schedule/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2601,14 +2595,14 @@ https://juejin.cn/post/6892994632968306702</p>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">Vue</title>
     <id>https://hbuecx.com/fontEnd/vue/</id>
     <link href="https://hbuecx.com/fontEnd/vue/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2617,14 +2611,30 @@ https://juejin.cn/post/6892994632968306702</p>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
+    <rights>Copyright by 白山</rights>
+  </entry>
+  <entry>
+    <title type="html">进程与线程</title>
+    <id>https://hbuecx.com/fontEnd/system/process/</id>
+    <link href="https://hbuecx.com/fontEnd/system/process/"/>
+    <updated>2021-04-07T09:48:49.000Z</updated>
+    <content type="html"><![CDATA[<p>暂无内容</p>
+]]></content>
+    <author>
+      <name>白山</name>
+    </author>
+    <contributor>
+      <name>白山</name>
+    </contributor>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">数据绑定原理</title>
     <id>https://hbuecx.com/fontEnd/vue/bind/</id>
     <link href="https://hbuecx.com/fontEnd/vue/bind/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<h2 id="参考"> 参考</h2>
 <ol>
 <li><a href="https://segmentfault.com/a/1190000006599500" target="_blank" rel="noopener noreferrer">剖析Vue原理&amp;实现双向绑定MVVM</a>.</li>
@@ -2636,30 +2646,14 @@ https://juejin.cn/post/6892994632968306702</p>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
-    <rights>Copyright by 白山</rights>
-  </entry>
-  <entry>
-    <title type="html">IO多路复用</title>
-    <id>https://hbuecx.com/fontEnd/system/io/</id>
-    <link href="https://hbuecx.com/fontEnd/system/io/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
-    <content type="html"><![CDATA[<p>暂无内容</p>
-]]></content>
-    <author>
-      <name>白山</name>
-    </author>
-    <contributor>
-      <name>白山</name>
-    </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">computed和watch</title>
     <id>https://hbuecx.com/fontEnd/vue/computed/</id>
     <link href="https://hbuecx.com/fontEnd/vue/computed/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2668,31 +2662,14 @@ https://juejin.cn/post/6892994632968306702</p>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
-    <rights>Copyright by 白山</rights>
-  </entry>
-  <entry>
-    <title type="html">data函数</title>
-    <id>https://hbuecx.com/fontEnd/vue/data/</id>
-    <link href="https://hbuecx.com/fontEnd/vue/data/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
-    <content type="html"><![CDATA[<div><p>为什么data必须是return一个对象的函数？</p>
-</div>
-]]></content>
-    <author>
-      <name>白山</name>
-    </author>
-    <contributor>
-      <name>白山</name>
-    </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">样式隔离</title>
     <id>https://hbuecx.com/fontEnd/vue/css/</id>
     <link href="https://hbuecx.com/fontEnd/vue/css/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<div><p>vue实现样式隔离的方式有几种？其原理分别是什么？</p>
 <p>css module
 scoped</p>
@@ -2708,14 +2685,31 @@ scoped</p>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
+    <rights>Copyright by 白山</rights>
+  </entry>
+  <entry>
+    <title type="html">data函数</title>
+    <id>https://hbuecx.com/fontEnd/vue/data/</id>
+    <link href="https://hbuecx.com/fontEnd/vue/data/"/>
+    <updated>2021-04-07T09:48:49.000Z</updated>
+    <content type="html"><![CDATA[<div><p>为什么data必须是return一个对象的函数？</p>
+</div>
+]]></content>
+    <author>
+      <name>白山</name>
+    </author>
+    <contributor>
+      <name>白山</name>
+    </contributor>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">keep alive</title>
     <id>https://hbuecx.com/fontEnd/vue/keepAlive/</id>
     <link href="https://hbuecx.com/fontEnd/vue/keepAlive/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2724,14 +2718,14 @@ scoped</p>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">next tick原理</title>
     <id>https://hbuecx.com/fontEnd/vue/nextTick/</id>
     <link href="https://hbuecx.com/fontEnd/vue/nextTick/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2740,14 +2734,14 @@ scoped</p>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">slot</title>
     <id>https://hbuecx.com/fontEnd/vue/slot/</id>
     <link href="https://hbuecx.com/fontEnd/vue/slot/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2756,14 +2750,14 @@ scoped</p>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">Vuex</title>
     <id>https://hbuecx.com/fontEnd/vuex/</id>
     <link href="https://hbuecx.com/fontEnd/vuex/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2772,14 +2766,14 @@ scoped</p>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">computed 与 watch</title>
     <id>https://hbuecx.com/fontEnd/vuex/computed/</id>
     <link href="https://hbuecx.com/fontEnd/vuex/computed/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2788,14 +2782,14 @@ scoped</p>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
     <title type="html">操作系统</title>
     <id>https://hbuecx.com/fontEnd/system/</id>
     <link href="https://hbuecx.com/fontEnd/system/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
+    <updated>2021-04-07T09:48:49.000Z</updated>
     <content type="html"><![CDATA[<p>暂无内容</p>
 ]]></content>
     <author>
@@ -2804,23 +2798,23 @@ scoped</p>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
   <entry>
-    <title type="html">进程通信</title>
-    <id>https://hbuecx.com/fontEnd/system/communication/</id>
-    <link href="https://hbuecx.com/fontEnd/system/communication/"/>
-    <updated>2021-04-06T13:07:13.000Z</updated>
-    <content type="html"><![CDATA[<p>暂无内容</p>
-]]></content>
+    <title type="html">幻灯片页</title>
+    <id>https://hbuecx.com/fontEnd/slides/</id>
+    <link href="https://hbuecx.com/fontEnd/slides/"/>
+    <updated>2021-04-07T09:48:49.000Z</updated>
+    <content type="html"><![CDATA[
+<i>Not supported content</i>]]></content>
     <author>
       <name>白山</name>
     </author>
     <contributor>
       <name>白山</name>
     </contributor>
-    <published>2021-04-06T13:07:13.000Z</published>
+    <published>2021-04-07T09:48:49.000Z</published>
     <rights>Copyright by 白山</rights>
   </entry>
 </feed>
