@@ -30,10 +30,13 @@ export default {
                         "今日得闲。",
                         "\n",
                         {
-                            content: "1、学习了关于AST的编译与转换的知识，推荐一篇文章：#浅析AST抽象语法树及如何利用AST转换JS代码#",
+                            content: "1、学习了关于AST的编译与转换的知识，推荐一篇文章：#浅析AST抽象语法树及如何利用AST转换JS代码#。",
                             links: ['https://www.cnblogs.com/goloving/p/14078228.html']
                         },
-                        "2、完成拷贝篇",
+                        {
+                            content: "2、完成#深浅拷贝篇#。",
+                            links: ['../javascript/clone/']
+                        }
                     ]
                 },
                 {
