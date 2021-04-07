@@ -79,7 +79,7 @@ module.exports = config({
 					{
 						text: "建站工具",
 						icon: "home",
-						link: "https://github.com/vuepress-theme-hope/vuepress-theme-hope",
+						link: "https://vuepress-theme-hope.github.io/zh/",
 					},
 				]
 			},
@@ -112,6 +112,7 @@ module.exports = config({
 								"call",
 								"currie",
 								"v8",
+								"ast",
 								"float",
 								"new",
 								"loop",
