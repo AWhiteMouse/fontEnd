@@ -66,6 +66,18 @@ module.exports = config({
 				text: "每日学习",
 				icon: "enum",
 				link: "/learning/",
+				items: [
+					{
+						text: "时间轴",
+						icon: "enum",
+						link: "/learning/",
+					},
+					{
+						text: "每日小结",
+						icon: "enum",
+						link: "/learning/detail/",
+					},
+				]
 			},
 			{
 				text: "帮助",

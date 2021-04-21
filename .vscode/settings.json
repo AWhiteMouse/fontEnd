@@ -1,8 +1,11 @@
 {
     "cSpell.ignoreWords": [
+        "axure",
         "dev",
         "instanceof",
+        "keyof",
         "mvvm",
+        "pm",
         "src",
         "typeof",
         "vuepress"

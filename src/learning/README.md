@@ -25,7 +25,44 @@ export default {
         return {
             learnList: [
                 {
-                    time: "",
+                    time: "2021/04/19 周一",
+                    contents: [{
+                        content: "给#GImage#添加新功能：支持更换图片颜色、支持上传和渲染图片。明天看能不能做出来图片质量压缩功能",
+                        links: ['https://github.com/AWhiteMouse/GImage']
+                    }]
+                },
+                {
+                    time: "2021/04/18 周日",
+                    contents: [{
+                        content: "突然想到测试的时候经常需要一些特制宽高的图片，每次都需要找网站生成太繁琐了，所以自己写了一个生成图片的工具，并且只会下载和水印功能。源码：#GImage#",
+                        links: ['https://github.com/AWhiteMouse/GImage']
+                    }]
+                },
+                {
+                    time: "2021/04/15 周四",
+                    contents: [{
+                        content: "昨天和今天借助着调研需求的时机，大概学习了一下svg和canvas的基本使用方法，并完成了一篇博文：#如何绘制一条优雅的圆弧线#。",
+                        links: ['http://hbuecx.com/post/ru-he-hui-zhi-yi-tiao-you-ya-de-yuan-hu-xian/']
+                    }]
+                },
+                {
+                    time: "2021/04/08 周四",
+                    contents: [
+                        "制定一份计划：",
+                        "\n",
+                        "1、每天阅读至少一篇干货；",
+                        "2、每天中午刷一道算法题；",
+                        "3、每两天对于近两天阅读的文章进行总结或输出至少一篇博客。",
+                        "\n",
+                        "注：以上计划针对工作日，周末不做强制规定。",
+                        "\n",
+                        "\n",
+                        "今天主要完成的事情：",
+                        "1、完成小程序Iconfont的实践。今后可以将小图标转换为字体文件进行使用，而不是使用大量的小图片。",
+                    ]
+                },
+                {
+                    time: "2021/04/07 周三",
                     contents: [
                         "今日得闲。",
                         "\n",
